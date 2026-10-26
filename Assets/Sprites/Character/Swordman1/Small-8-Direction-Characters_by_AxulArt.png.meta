@@ -1,0 +1,3012 @@
+fileFormatVersion: 2
+guid: fec0062e88f6ae6448798a3adb2c4cb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2435844364801655190
+    second: Small-8-Direction-Characters_by_AxulArt_0
+  - first:
+      213: 7175731444254453771
+    second: Small-8-Direction-Characters_by_AxulArt_1
+  - first:
+      213: -2513202401464725267
+    second: Small-8-Direction-Characters_by_AxulArt_2
+  - first:
+      213: 116222062276264994
+    second: Small-8-Direction-Characters_by_AxulArt_3
+  - first:
+      213: 2822392472766049395
+    second: Small-8-Direction-Characters_by_AxulArt_4
+  - first:
+      213: 1875530579765883208
+    second: Small-8-Direction-Characters_by_AxulArt_5
+  - first:
+      213: -7377568353495923986
+    second: Small-8-Direction-Characters_by_AxulArt_6
+  - first:
+      213: 7079225024882659134
+    second: Small-8-Direction-Characters_by_AxulArt_7
+  - first:
+      213: 5554300686759545946
+    second: Small-8-Direction-Characters_by_AxulArt_8
+  - first:
+      213: 2414728556034474308
+    second: Small-8-Direction-Characters_by_AxulArt_9
+  - first:
+      213: 7816623607877588722
+    second: Small-8-Direction-Characters_by_AxulArt_10
+  - first:
+      213: -8084914006142342286
+    second: Small-8-Direction-Characters_by_AxulArt_11
+  - first:
+      213: 5804860221266551222
+    second: Small-8-Direction-Characters_by_AxulArt_12
+  - first:
+      213: 2268126058798432628
+    second: Small-8-Direction-Characters_by_AxulArt_13
+  - first:
+      213: -5036999683891687474
+    second: Small-8-Direction-Characters_by_AxulArt_14
+  - first:
+      213: -910125685513904026
+    second: Small-8-Direction-Characters_by_AxulArt_15
+  - first:
+      213: -8929045473793675167
+    second: Small-8-Direction-Characters_by_AxulArt_16
+  - first:
+      213: 6238477924663562830
+    second: Small-8-Direction-Characters_by_AxulArt_17
+  - first:
+      213: -1156473527028081769
+    second: Small-8-Direction-Characters_by_AxulArt_18
+  - first:
+      213: 9174447302323967937
+    second: Small-8-Direction-Characters_by_AxulArt_19
+  - first:
+      213: 1125379381859389362
+    second: Small-8-Direction-Characters_by_AxulArt_20
+  - first:
+      213: 7371839111093928353
+    second: Small-8-Direction-Characters_by_AxulArt_21
+  - first:
+      213: -8249210625284332867
+    second: Small-8-Direction-Characters_by_AxulArt_22
+  - first:
+      213: 4815724037285249570
+    second: Small-8-Direction-Characters_by_AxulArt_23
+  - first:
+      213: -3457985245324429367
+    second: Small-8-Direction-Characters_by_AxulArt_24
+  - first:
+      213: 5128978612201748033
+    second: Small-8-Direction-Characters_by_AxulArt_25
+  - first:
+      213: 6791523069707314898
+    second: Small-8-Direction-Characters_by_AxulArt_26
+  - first:
+      213: -789916411574100575
+    second: Small-8-Direction-Characters_by_AxulArt_27
+  - first:
+      213: -2379768906167555784
+    second: Small-8-Direction-Characters_by_AxulArt_28
+  - first:
+      213: 305644616828894888
+    second: Small-8-Direction-Characters_by_AxulArt_29
+  - first:
+      213: -214118042222032536
+    second: Small-8-Direction-Characters_by_AxulArt_30
+  - first:
+      213: -2585834147628311387
+    second: Small-8-Direction-Characters_by_AxulArt_31
+  - first:
+      213: 5647512037368807884
+    second: Small-8-Direction-Characters_by_AxulArt_32
+  - first:
+      213: -6021471363535740621
+    second: Small-8-Direction-Characters_by_AxulArt_33
+  - first:
+      213: 7412986676604390447
+    second: Small-8-Direction-Characters_by_AxulArt_34
+  - first:
+      213: -6036984999704407040
+    second: Small-8-Direction-Characters_by_AxulArt_35
+  - first:
+      213: -678965117449167510
+    second: Small-8-Direction-Characters_by_AxulArt_36
+  - first:
+      213: 4298877907444212546
+    second: Small-8-Direction-Characters_by_AxulArt_37
+  - first:
+      213: -8989780477179548062
+    second: Small-8-Direction-Characters_by_AxulArt_38
+  - first:
+      213: 534821202343493053
+    second: Small-8-Direction-Characters_by_AxulArt_39
+  - first:
+      213: 6396989588978632775
+    second: Small-8-Direction-Characters_by_AxulArt_40
+  - first:
+      213: 4231563231303591020
+    second: Small-8-Direction-Characters_by_AxulArt_41
+  - first:
+      213: 7400792001476597451
+    second: Small-8-Direction-Characters_by_AxulArt_42
+  - first:
+      213: -8527564442724020587
+    second: Small-8-Direction-Characters_by_AxulArt_43
+  - first:
+      213: 6046623275608860670
+    second: Small-8-Direction-Characters_by_AxulArt_44
+  - first:
+      213: 1408869818135702755
+    second: Small-8-Direction-Characters_by_AxulArt_45
+  - first:
+      213: -8734128555168634486
+    second: Small-8-Direction-Characters_by_AxulArt_46
+  - first:
+      213: 866086912981252047
+    second: Small-8-Direction-Characters_by_AxulArt_47
+  - first:
+      213: 2552153717530130704
+    second: Small-8-Direction-Characters_by_AxulArt_48
+  - first:
+      213: 7074741479498802654
+    second: Small-8-Direction-Characters_by_AxulArt_49
+  - first:
+      213: 6279345569671006892
+    second: Small-8-Direction-Characters_by_AxulArt_50
+  - first:
+      213: -7025250049320907596
+    second: Small-8-Direction-Characters_by_AxulArt_51
+  - first:
+      213: -2298216017647605559
+    second: Small-8-Direction-Characters_by_AxulArt_52
+  - first:
+      213: 4339810400250722761
+    second: Small-8-Direction-Characters_by_AxulArt_53
+  - first:
+      213: -6383814987320937140
+    second: Small-8-Direction-Characters_by_AxulArt_54
+  - first:
+      213: -5851069236004528113
+    second: Small-8-Direction-Characters_by_AxulArt_55
+  - first:
+      213: 7057583873565921941
+    second: Small-8-Direction-Characters_by_AxulArt_56
+  - first:
+      213: 2125592803057769448
+    second: Small-8-Direction-Characters_by_AxulArt_57
+  - first:
+      213: 2174973545699553740
+    second: Small-8-Direction-Characters_by_AxulArt_58
+  - first:
+      213: 794618213534797419
+    second: Small-8-Direction-Characters_by_AxulArt_59
+  - first:
+      213: 1508543048977820341
+    second: Small-8-Direction-Characters_by_AxulArt_60
+  - first:
+      213: -2452734956274390962
+    second: Small-8-Direction-Characters_by_AxulArt_61
+  - first:
+      213: 7347338698923434759
+    second: Small-8-Direction-Characters_by_AxulArt_62
+  - first:
+      213: 3541480090103695939
+    second: Small-8-Direction-Characters_by_AxulArt_63
+  - first:
+      213: 2197348649194065261
+    second: Small-8-Direction-Characters_by_AxulArt_64
+  - first:
+      213: 4560302371093485484
+    second: Small-8-Direction-Characters_by_AxulArt_65
+  - first:
+      213: 2458117366700952819
+    second: Small-8-Direction-Characters_by_AxulArt_66
+  - first:
+      213: -9017804762970478057
+    second: Small-8-Direction-Characters_by_AxulArt_67
+  - first:
+      213: 1341646128421906504
+    second: Small-8-Direction-Characters_by_AxulArt_68
+  - first:
+      213: -8228718450966499750
+    second: Small-8-Direction-Characters_by_AxulArt_69
+  - first:
+      213: 5384635773643376758
+    second: Small-8-Direction-Characters_by_AxulArt_70
+  - first:
+      213: -2422168181252944228
+    second: Small-8-Direction-Characters_by_AxulArt_71
+  - first:
+      213: -8733201210518621926
+    second: Small-8-Direction-Characters_by_AxulArt_72
+  - first:
+      213: 2688246280272161830
+    second: Small-8-Direction-Characters_by_AxulArt_73
+  - first:
+      213: -1736497411315213830
+    second: Small-8-Direction-Characters_by_AxulArt_74
+  - first:
+      213: -109630665561108195
+    second: Small-8-Direction-Characters_by_AxulArt_75
+  - first:
+      213: 753877317691797494
+    second: Small-8-Direction-Characters_by_AxulArt_76
+  - first:
+      213: 7150588167059960457
+    second: Small-8-Direction-Characters_by_AxulArt_77
+  - first:
+      213: -7562760845128292968
+    second: Small-8-Direction-Characters_by_AxulArt_78
+  - first:
+      213: -1568536323721896422
+    second: Small-8-Direction-Characters_by_AxulArt_79
+  - first:
+      213: -380362419353694245
+    second: Small-8-Direction-Characters_by_AxulArt_80
+  - first:
+      213: -4871531732248455920
+    second: Small-8-Direction-Characters_by_AxulArt_81
+  - first:
+      213: 5073013363320654238
+    second: Small-8-Direction-Characters_by_AxulArt_82
+  - first:
+      213: -6821322843767666820
+    second: Small-8-Direction-Characters_by_AxulArt_83
+  - first:
+      213: 5497369311495656864
+    second: Small-8-Direction-Characters_by_AxulArt_84
+  - first:
+      213: 5012592327895361995
+    second: Small-8-Direction-Characters_by_AxulArt_85
+  - first:
+      213: 1903504555360657301
+    second: Small-8-Direction-Characters_by_AxulArt_86
+  - first:
+      213: 6400548867142685080
+    second: Small-8-Direction-Characters_by_AxulArt_87
+  - first:
+      213: 6733315936822877014
+    second: Small-8-Direction-Characters_by_AxulArt_88
+  - first:
+      213: 437893514989610912
+    second: Small-8-Direction-Characters_by_AxulArt_89
+  - first:
+      213: -7106271704611935847
+    second: Small-8-Direction-Characters_by_AxulArt_90
+  - first:
+      213: 2780501898652255178
+    second: Small-8-Direction-Characters_by_AxulArt_91
+  - first:
+      213: 2945151375013764024
+    second: Small-8-Direction-Characters_by_AxulArt_92
+  - first:
+      213: -619213138225017795
+    second: Small-8-Direction-Characters_by_AxulArt_93
+  - first:
+      213: -7662571426202723118
+    second: Small-8-Direction-Characters_by_AxulArt_94
+  - first:
+      213: -3274840466366865838
+    second: Small-8-Direction-Characters_by_AxulArt_95
+  - first:
+      213: -3750172468997343013
+    second: Swordsman8Dir_r0_c0
+  - first:
+      213: 2624313462860575103
+    second: Swordsman8Dir_r0_c1
+  - first:
+      213: 8402690347335786017
+    second: Swordsman8Dir_r0_c2
+  - first:
+      213: -2953327651062115764
+    second: Swordsman8Dir_r0_c3
+  - first:
+      213: -148817835956027613
+    second: Swordsman8Dir_r0_c4
+  - first:
+      213: 7643240906896662461
+    second: Swordsman8Dir_r0_c5
+  - first:
+      213: -7043662909081514988
+    second: Swordsman8Dir_r0_c6
+  - first:
+      213: -1839316709497557113
+    second: Swordsman8Dir_r0_c7
+  - first:
+      213: 2503001159150327637
+    second: Swordsman8Dir_r1_c0
+  - first:
+      213: -1547057530421701451
+    second: Swordsman8Dir_r1_c1
+  - first:
+      213: 8663884091026866692
+    second: Swordsman8Dir_r1_c2
+  - first:
+      213: 3656343049678574730
+    second: Swordsman8Dir_r1_c3
+  - first:
+      213: -864927118822967354
+    second: Swordsman8Dir_r1_c4
+  - first:
+      213: -3829848315601423569
+    second: Swordsman8Dir_r1_c5
+  - first:
+      213: -7878460515058442557
+    second: Swordsman8Dir_r1_c6
+  - first:
+      213: -1799564710382692682
+    second: Swordsman8Dir_r1_c7
+  - first:
+      213: -1017715778242053454
+    second: Swordsman8Dir_r2_c0
+  - first:
+      213: -3086514197490701089
+    second: Swordsman8Dir_r2_c1
+  - first:
+      213: -5436178644003746042
+    second: Swordsman8Dir_r2_c2
+  - first:
+      213: 243195332057525205
+    second: Swordsman8Dir_r2_c3
+  - first:
+      213: 5094315824757309086
+    second: Swordsman8Dir_r2_c4
+  - first:
+      213: 9129640482264373762
+    second: Swordsman8Dir_r2_c5
+  - first:
+      213: 5648748371132336814
+    second: Swordsman8Dir_r2_c6
+  - first:
+      213: -7554994620325222798
+    second: Swordsman8Dir_r2_c7
+  - first:
+      213: -5954951281745838449
+    second: Swordsman8Dir_r3_c0
+  - first:
+      213: 204836857321262836
+    second: Swordsman8Dir_r3_c1
+  - first:
+      213: 5462033575451487634
+    second: Swordsman8Dir_r3_c2
+  - first:
+      213: 6311069575541913598
+    second: Swordsman8Dir_r3_c3
+  - first:
+      213: 4496952357125126588
+    second: Swordsman8Dir_r3_c4
+  - first:
+      213: 2273975827844250620
+    second: Swordsman8Dir_r3_c5
+  - first:
+      213: -653378107673734605
+    second: Swordsman8Dir_r3_c6
+  - first:
+      213: 2418962619442049376
+    second: Swordsman8Dir_r3_c7
+  - first:
+      213: -6393061725927836908
+    second: Swordsman8Dir_r4_c0
+  - first:
+      213: 5611608901881765745
+    second: Swordsman8Dir_r4_c1
+  - first:
+      213: 6592595648475557028
+    second: Swordsman8Dir_r4_c2
+  - first:
+      213: 7288122766876565603
+    second: Swordsman8Dir_r4_c3
+  - first:
+      213: -5428786818963623656
+    second: Swordsman8Dir_r4_c4
+  - first:
+      213: 7861713766014892924
+    second: Swordsman8Dir_r4_c5
+  - first:
+      213: 1626606233707427571
+    second: Swordsman8Dir_r4_c6
+  - first:
+      213: -5280504986653529786
+    second: Swordsman8Dir_r4_c7
+  - first:
+      213: 827536129322735892
+    second: Swordsman8Dir_r5_c0
+  - first:
+      213: 3916006414709378135
+    second: Swordsman8Dir_r5_c1
+  - first:
+      213: -6129515769633597065
+    second: Swordsman8Dir_r5_c2
+  - first:
+      213: 6158044971234622480
+    second: Swordsman8Dir_r5_c3
+  - first:
+      213: 562680699067267019
+    second: Swordsman8Dir_r5_c4
+  - first:
+      213: 2190610567953326185
+    second: Swordsman8Dir_r5_c5
+  - first:
+      213: 9170926195107798290
+    second: Swordsman8Dir_r5_c6
+  - first:
+      213: 7496604426042496795
+    second: Swordsman8Dir_r5_c7
+  - first:
+      213: -5018304900864428585
+    second: Swordsman8Dir_r6_c0
+  - first:
+      213: 2239532944902714433
+    second: Swordsman8Dir_r6_c1
+  - first:
+      213: -3090519907363674897
+    second: Swordsman8Dir_r6_c2
+  - first:
+      213: -8835883421930464796
+    second: Swordsman8Dir_r6_c3
+  - first:
+      213: -7667346261983681146
+    second: Swordsman8Dir_r6_c4
+  - first:
+      213: -8110200387761635619
+    second: Swordsman8Dir_r6_c5
+  - first:
+      213: 8096498546132074326
+    second: Swordsman8Dir_r6_c6
+  - first:
+      213: -4767576753671663625
+    second: Swordsman8Dir_r6_c7
+  - first:
+      213: -4063032226214180588
+    second: Swordsman8Dir_r7_c0
+  - first:
+      213: -4458809919111624112
+    second: Swordsman8Dir_r7_c1
+  - first:
+      213: -2777186740021943351
+    second: Swordsman8Dir_r7_c2
+  - first:
+      213: -4960001966008283162
+    second: Swordsman8Dir_r7_c3
+  - first:
+      213: -445717272467083907
+    second: Swordsman8Dir_r7_c4
+  - first:
+      213: -3558647377938537722
+    second: Swordsman8Dir_r7_c5
+  - first:
+      213: -2793336306192728860
+    second: Swordsman8Dir_r7_c6
+  - first:
+      213: -6614989836917028257
+    second: Swordsman8Dir_r7_c7
+  - first:
+      213: -8266160692213599939
+    second: Swordsman8Dir_r8_c0
+  - first:
+      213: 4430144494634975705
+    second: Swordsman8Dir_r8_c1
+  - first:
+      213: -296289842410838345
+    second: Swordsman8Dir_r8_c2
+  - first:
+      213: -958346306833640079
+    second: Swordsman8Dir_r8_c3
+  - first:
+      213: 7063013355313992997
+    second: Swordsman8Dir_r8_c4
+  - first:
+      213: 2496955368359467637
+    second: Swordsman8Dir_r8_c5
+  - first:
+      213: -1515279236299439328
+    second: Swordsman8Dir_r8_c6
+  - first:
+      213: -337980670803516537
+    second: Swordsman8Dir_r8_c7
+  - first:
+      213: 1499102245625630837
+    second: Swordsman8Dir_r9_c0
+  - first:
+      213: 3223701410706170456
+    second: Swordsman8Dir_r9_c1
+  - first:
+      213: 4471381167741600515
+    second: Swordsman8Dir_r9_c2
+  - first:
+      213: 990786413094471302
+    second: Swordsman8Dir_r9_c3
+  - first:
+      213: 633315151975199290
+    second: Swordsman8Dir_r9_c4
+  - first:
+      213: 7403889330977609906
+    second: Swordsman8Dir_r9_c5
+  - first:
+      213: -3770645618490980584
+    second: Swordsman8Dir_r9_c6
+  - first:
+      213: 2881514562181250519
+    second: Swordsman8Dir_r9_c7
+  - first:
+      213: -4436048328793585725
+    second: Swordsman8Dir_r10_c0
+  - first:
+      213: -1585403333040794273
+    second: Swordsman8Dir_r10_c1
+  - first:
+      213: 592080093913716940
+    second: Swordsman8Dir_r10_c2
+  - first:
+      213: 8850658733061000957
+    second: Swordsman8Dir_r10_c3
+  - first:
+      213: 4902625705078334192
+    second: Swordsman8Dir_r10_c4
+  - first:
+      213: -3286712364253949766
+    second: Swordsman8Dir_r10_c5
+  - first:
+      213: 5689417324167943151
+    second: Swordsman8Dir_r10_c6
+  - first:
+      213: 4834721978108352030
+    second: Swordsman8Dir_r10_c7
+  - first:
+      213: 649893779952356002
+    second: Swordsman8Dir_r11_c0
+  - first:
+      213: -4126087464939813227
+    second: Swordsman8Dir_r11_c1
+  - first:
+      213: -441233620532364531
+    second: Swordsman8Dir_r11_c2
+  - first:
+      213: -8531692785043518492
+    second: Swordsman8Dir_r11_c3
+  - first:
+      213: 9183957331247314213
+    second: Swordsman8Dir_r11_c4
+  - first:
+      213: -8528752595468854451
+    second: Swordsman8Dir_r11_c5
+  - first:
+      213: -8318859132849433662
+    second: Swordsman8Dir_r11_c6
+  - first:
+      213: 8958594508687883902
+    second: Swordsman8Dir_r11_c7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swordsman8Dir_r0_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8b6fa3206b4fbc0800000000000000
+      internalID: -3750172468997343013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r0_c1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 264
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f717415b03f6b6420800000000000000
+      internalID: 2624313462860575103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r0_c2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 264
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e9d8ef95a5c9470800000000000000
+      internalID: 8402690347335786017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r0_c3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 264
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c429a15162ca307d0800000000000000
+      internalID: -2953327651062115764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r0_c4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 264
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f399777fa4fedf0800000000000000
+      internalID: -148817835956027613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r0_c5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 264
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf5f44fb1f321a60800000000000000
+      internalID: 7643240906896662461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r0_c6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c0a9237e1ef3e90800000000000000
+      internalID: -7043662909081514988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r0_c7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 264
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f25f4a23f6976e0800000000000000
+      internalID: -1839316709497557113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r1_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557db83fa427cb220800000000000000
+      internalID: 2503001159150327637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r1_c1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b41f1c6f5fb78ae0800000000000000
+      internalID: -1547057530421701451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r1_c2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40280d47dac4c3870800000000000000
+      internalID: 8663884091026866692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r1_c3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a845f0da1a0fdb230800000000000000
+      internalID: 3656343049678574730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r1_c4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c774f53e592ff3f0800000000000000
+      internalID: -864927118822967354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r1_c5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23f2f49f35a9dac0800000000000000
+      internalID: -3829848315601423569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r1_c6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce100747e51aa290800000000000000
+      internalID: -7878460515058442557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r1_c7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b69f4f2e69a607e0800000000000000
+      internalID: -1799564710382692682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r2_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba729b44e850e1f0800000000000000
+      internalID: -1017715778242053454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r2_c1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 216
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdced50c0bf7a25d0800000000000000
+      internalID: -3086514197490701089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r2_c2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 216
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f879c4350de84b0800000000000000
+      internalID: -5436178644003746042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r2_c3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db6252bdd0006300800000000000000
+      internalID: 243195332057525205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r2_c4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 216
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e7f447045a2b640800000000000000
+      internalID: 5094315824757309086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r2_c5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 216
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad460d5aff2be70800000000000000
+      internalID: 9129640482264373762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r2_c6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaac8e617b2646e40800000000000000
+      internalID: 5648748371132336814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r2_c7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 216
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276278fbb64472790800000000000000
+      internalID: -7554994620325222798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r3_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e38c42c53cb5da0800000000000000
+      internalID: -5954951281745838449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r3_c1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe8a85590ab7d200800000000000000
+      internalID: 204836857321262836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r3_c2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dea08099a0dcb40800000000000000
+      internalID: 5462033575451487634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r3_c3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef773fa675c659750800000000000000
+      internalID: 6311069575541913598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r3_c4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb97c4ac752686e30800000000000000
+      internalID: 4496952357125126588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r3_c5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb3b76a7f8ce8f10800000000000000
+      internalID: 2273975827844250620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r3_c6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3321714a21cbee6f0800000000000000
+      internalID: -653378107673734605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r3_c7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061bac8afa1e19120800000000000000
+      internalID: 2418962619442049376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r4_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413fcee6b384747a0800000000000000
+      internalID: -6393061725927836908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r4_c1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 168
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f151f809070ed40800000000000000
+      internalID: 5611608901881765745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r4_c2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 168
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aceb2f20da9d7b50800000000000000
+      internalID: 6592595648475557028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r4_c3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3606d17da0d942560800000000000000
+      internalID: 7288122766876565603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r4_c4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 168
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811b95ea62319a4b0800000000000000
+      internalID: -5428786818963623656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r4_c5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 168
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bbd1d540b6a1d60800000000000000
+      internalID: 7861713766014892924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r4_c6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6319d50cdd29610800000000000000
+      internalID: 1626606233707427571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r4_c7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 168
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64966d321b0e7b6b0800000000000000
+      internalID: -5280504986653529786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r5_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4195513a9bffb7b00800000000000000
+      internalID: 827536129322735892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r5_c1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c47e61613785630800000000000000
+      internalID: 3916006414709378135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r5_c2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77995d112e59feaa0800000000000000
+      internalID: -6129515769633597065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r5_c3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cf15d4645c57550800000000000000
+      internalID: 6158044971234622480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r5_c4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc77fd55d1b0fc700800000000000000
+      internalID: 562680699067267019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r5_c5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960231884bc966e10800000000000000
+      internalID: 2190610567953326185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r5_c6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d99b8e8cca54f70800000000000000
+      internalID: 9170926195107798290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r5_c7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1752ebb10a490860800000000000000
+      internalID: 7496604426042496795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r6_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5bf51e7466b5ab0800000000000000
+      internalID: -5018304900864428585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r6_c1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 120
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144f5bb095b641f10800000000000000
+      internalID: 2239532944902714433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r6_c2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4a05eb4844c15d0800000000000000
+      internalID: -3090519907363674897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r6_c3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9521f97d2a06580800000000000000
+      internalID: -8835883421930464796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r6_c4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6852b84b23d189590800000000000000
+      internalID: -7667346261983681146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r6_c5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde7b3e87b7c27f80800000000000000
+      internalID: -8110200387761635619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r6_c6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f3ba6d78a8c5070800000000000000
+      internalID: 8096498546132074326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r6_c7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff8df5c33a26ddb0800000000000000
+      internalID: -4767576753671663625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r7_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4190a8597b53d97c0800000000000000
+      internalID: -4063032226214180588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r7_c1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a0d5a90002f12c0800000000000000
+      internalID: -4458809919111624112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r7_c2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c32116cf537579d0800000000000000
+      internalID: -2777186740021943351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r7_c3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef46dabd788a2bb0800000000000000
+      internalID: -4960001966008283162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r7_c4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7de750908e70d9f0800000000000000
+      internalID: -445717272467083907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r7_c5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603291570152d9ec0800000000000000
+      internalID: -3558647377938537722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r7_c6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec3e23ed631c39d0800000000000000
+      internalID: -2793336306192728860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r7_c7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5acdb18ac5d234a0800000000000000
+      internalID: -6614989836917028257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r8_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31bf4c75a2b84d80800000000000000
+      internalID: -8266160692213599939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r8_c1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1ce5a22f80b7d30800000000000000
+      internalID: 4430144494634975705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r8_c2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6ab8845fd53ebf0800000000000000
+      internalID: -296289842410838345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r8_c3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1759f598c1543b2f0800000000000000
+      internalID: -958346306833640079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r8_c4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5259457a93dd40260800000000000000
+      internalID: 7063013355313992997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r8_c5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a12179da7f6a220800000000000000
+      internalID: 2496955368359467637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r8_c6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023c8d81095a8fae0800000000000000
+      internalID: -1515279236299439328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r8_c7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783eecfde504f4bf0800000000000000
+      internalID: -337980670803516537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r9_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5709180cc81edc410800000000000000
+      internalID: 1499102245625630837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r9_c1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85221176a53ecbc20800000000000000
+      internalID: 3223701410706170456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r9_c2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3030c9e4b798d0e30800000000000000
+      internalID: 4471381167741600515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r9_c3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68687c84efaffbd00800000000000000
+      internalID: 990786413094471302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r9_c4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32ba5876ccf9c800800000000000000
+      internalID: 633315151975199290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r9_c5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b899397e16efb660800000000000000
+      internalID: 7403889330977609906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r9_c6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81746f7a9c9fbabc0800000000000000
+      internalID: -3770645618490980584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r9_c7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddbde53a323df720800000000000000
+      internalID: 2881514562181250519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r10_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c70bc35c8dff62c0800000000000000
+      internalID: -4436048328793585725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r10_c1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55126481148ff9e0800000000000000
+      internalID: -1585403333040794273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r10_c2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc89e4c55bd773800800000000000000
+      internalID: 592080093913716940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r10_c3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe4f44993bd3da70800000000000000
+      internalID: 8850658733061000957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r10_c4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2a4e18a10a90440800000000000000
+      internalID: 4902625705078334192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r10_c5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab052c9b4804362d0800000000000000
+      internalID: -3286712364253949766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r10_c6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3dbf999eed4fe40800000000000000
+      internalID: 5689417324167943151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r10_c7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e161cec0602681340800000000000000
+      internalID: 4834721978108352030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r11_c0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aacbc713f2e40900800000000000000
+      internalID: 649893779952356002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r11_c1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5960214cf413db6c0800000000000000
+      internalID: -4126087464939813227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r11_c2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b75312c5c60e9f0800000000000000
+      internalID: -441233620532364531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r11_c3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebc7b66d96599980800000000000000
+      internalID: -8531692785043518492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r11_c4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5253759b888f37f70800000000000000
+      internalID: 9183957331247314213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r11_c5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b53e1a3b8c3a980800000000000000
+      internalID: -8528752595468854451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r11_c6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3def1a1b97d8c80800000000000000
+      internalID: -8318859132849433662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman8Dir_r11_c7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e3b11bd32535c70800000000000000
+      internalID: 8958594508687883902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Small-8-Direction-Characters_by_AxulArt_0: -2435844364801655190
+      Small-8-Direction-Characters_by_AxulArt_1: 7175731444254453771
+      Small-8-Direction-Characters_by_AxulArt_10: 7816623607877588722
+      Small-8-Direction-Characters_by_AxulArt_11: -8084914006142342286
+      Small-8-Direction-Characters_by_AxulArt_12: 5804860221266551222
+      Small-8-Direction-Characters_by_AxulArt_13: 2268126058798432628
+      Small-8-Direction-Characters_by_AxulArt_14: -5036999683891687474
+      Small-8-Direction-Characters_by_AxulArt_15: -910125685513904026
+      Small-8-Direction-Characters_by_AxulArt_16: -8929045473793675167
+      Small-8-Direction-Characters_by_AxulArt_17: 6238477924663562830
+      Small-8-Direction-Characters_by_AxulArt_18: -1156473527028081769
+      Small-8-Direction-Characters_by_AxulArt_19: 9174447302323967937
+      Small-8-Direction-Characters_by_AxulArt_2: -2513202401464725267
+      Small-8-Direction-Characters_by_AxulArt_20: 1125379381859389362
+      Small-8-Direction-Characters_by_AxulArt_21: 7371839111093928353
+      Small-8-Direction-Characters_by_AxulArt_22: -8249210625284332867
+      Small-8-Direction-Characters_by_AxulArt_23: 4815724037285249570
+      Small-8-Direction-Characters_by_AxulArt_24: -3457985245324429367
+      Small-8-Direction-Characters_by_AxulArt_25: 5128978612201748033
+      Small-8-Direction-Characters_by_AxulArt_26: 6791523069707314898
+      Small-8-Direction-Characters_by_AxulArt_27: -789916411574100575
+      Small-8-Direction-Characters_by_AxulArt_28: -2379768906167555784
+      Small-8-Direction-Characters_by_AxulArt_29: 305644616828894888
+      Small-8-Direction-Characters_by_AxulArt_3: 116222062276264994
+      Small-8-Direction-Characters_by_AxulArt_30: -214118042222032536
+      Small-8-Direction-Characters_by_AxulArt_31: -2585834147628311387
+      Small-8-Direction-Characters_by_AxulArt_32: 5647512037368807884
+      Small-8-Direction-Characters_by_AxulArt_33: -6021471363535740621
+      Small-8-Direction-Characters_by_AxulArt_34: 7412986676604390447
+      Small-8-Direction-Characters_by_AxulArt_35: -6036984999704407040
+      Small-8-Direction-Characters_by_AxulArt_36: -678965117449167510
+      Small-8-Direction-Characters_by_AxulArt_37: 4298877907444212546
+      Small-8-Direction-Characters_by_AxulArt_38: -8989780477179548062
+      Small-8-Direction-Characters_by_AxulArt_39: 534821202343493053
+      Small-8-Direction-Characters_by_AxulArt_4: 2822392472766049395
+      Small-8-Direction-Characters_by_AxulArt_40: 6396989588978632775
+      Small-8-Direction-Characters_by_AxulArt_41: 4231563231303591020
+      Small-8-Direction-Characters_by_AxulArt_42: 7400792001476597451
+      Small-8-Direction-Characters_by_AxulArt_43: -8527564442724020587
+      Small-8-Direction-Characters_by_AxulArt_44: 6046623275608860670
+      Small-8-Direction-Characters_by_AxulArt_45: 1408869818135702755
+      Small-8-Direction-Characters_by_AxulArt_46: -8734128555168634486
+      Small-8-Direction-Characters_by_AxulArt_47: 866086912981252047
+      Small-8-Direction-Characters_by_AxulArt_48: 2552153717530130704
+      Small-8-Direction-Characters_by_AxulArt_49: 7074741479498802654
+      Small-8-Direction-Characters_by_AxulArt_5: 1875530579765883208
+      Small-8-Direction-Characters_by_AxulArt_50: 6279345569671006892
+      Small-8-Direction-Characters_by_AxulArt_51: -7025250049320907596
+      Small-8-Direction-Characters_by_AxulArt_52: -2298216017647605559
+      Small-8-Direction-Characters_by_AxulArt_53: 4339810400250722761
+      Small-8-Direction-Characters_by_AxulArt_54: -6383814987320937140
+      Small-8-Direction-Characters_by_AxulArt_55: -5851069236004528113
+      Small-8-Direction-Characters_by_AxulArt_56: 7057583873565921941
+      Small-8-Direction-Characters_by_AxulArt_57: 2125592803057769448
+      Small-8-Direction-Characters_by_AxulArt_58: 2174973545699553740
+      Small-8-Direction-Characters_by_AxulArt_59: 794618213534797419
+      Small-8-Direction-Characters_by_AxulArt_6: -7377568353495923986
+      Small-8-Direction-Characters_by_AxulArt_60: 1508543048977820341
+      Small-8-Direction-Characters_by_AxulArt_61: -2452734956274390962
+      Small-8-Direction-Characters_by_AxulArt_62: 7347338698923434759
+      Small-8-Direction-Characters_by_AxulArt_63: 3541480090103695939
+      Small-8-Direction-Characters_by_AxulArt_64: 2197348649194065261
+      Small-8-Direction-Characters_by_AxulArt_65: 4560302371093485484
+      Small-8-Direction-Characters_by_AxulArt_66: 2458117366700952819
+      Small-8-Direction-Characters_by_AxulArt_67: -9017804762970478057
+      Small-8-Direction-Characters_by_AxulArt_68: 1341646128421906504
+      Small-8-Direction-Characters_by_AxulArt_69: -8228718450966499750
+      Small-8-Direction-Characters_by_AxulArt_7: 7079225024882659134
+      Small-8-Direction-Characters_by_AxulArt_70: 5384635773643376758
+      Small-8-Direction-Characters_by_AxulArt_71: -2422168181252944228
+      Small-8-Direction-Characters_by_AxulArt_72: -8733201210518621926
+      Small-8-Direction-Characters_by_AxulArt_73: 2688246280272161830
+      Small-8-Direction-Characters_by_AxulArt_74: -1736497411315213830
+      Small-8-Direction-Characters_by_AxulArt_75: -109630665561108195
+      Small-8-Direction-Characters_by_AxulArt_76: 753877317691797494
+      Small-8-Direction-Characters_by_AxulArt_77: 7150588167059960457
+      Small-8-Direction-Characters_by_AxulArt_78: -7562760845128292968
+      Small-8-Direction-Characters_by_AxulArt_79: -1568536323721896422
+      Small-8-Direction-Characters_by_AxulArt_8: 5554300686759545946
+      Small-8-Direction-Characters_by_AxulArt_80: -380362419353694245
+      Small-8-Direction-Characters_by_AxulArt_81: -4871531732248455920
+      Small-8-Direction-Characters_by_AxulArt_82: 5073013363320654238
+      Small-8-Direction-Characters_by_AxulArt_83: -6821322843767666820
+      Small-8-Direction-Characters_by_AxulArt_84: 5497369311495656864
+      Small-8-Direction-Characters_by_AxulArt_85: 5012592327895361995
+      Small-8-Direction-Characters_by_AxulArt_86: 1903504555360657301
+      Small-8-Direction-Characters_by_AxulArt_87: 6400548867142685080
+      Small-8-Direction-Characters_by_AxulArt_88: 6733315936822877014
+      Small-8-Direction-Characters_by_AxulArt_89: 437893514989610912
+      Small-8-Direction-Characters_by_AxulArt_9: 2414728556034474308
+      Small-8-Direction-Characters_by_AxulArt_90: -7106271704611935847
+      Small-8-Direction-Characters_by_AxulArt_91: 2780501898652255178
+      Small-8-Direction-Characters_by_AxulArt_92: 2945151375013764024
+      Small-8-Direction-Characters_by_AxulArt_93: -619213138225017795
+      Small-8-Direction-Characters_by_AxulArt_94: -7662571426202723118
+      Small-8-Direction-Characters_by_AxulArt_95: -3274840466366865838
+      Swordsman8Dir_r0_c0: -3750172468997343013
+      Swordsman8Dir_r0_c1: 2624313462860575103
+      Swordsman8Dir_r0_c2: 8402690347335786017
+      Swordsman8Dir_r0_c3: -2953327651062115764
+      Swordsman8Dir_r0_c4: -148817835956027613
+      Swordsman8Dir_r0_c5: 7643240906896662461
+      Swordsman8Dir_r0_c6: -7043662909081514988
+      Swordsman8Dir_r0_c7: -1839316709497557113
+      Swordsman8Dir_r10_c0: -4436048328793585725
+      Swordsman8Dir_r10_c1: -1585403333040794273
+      Swordsman8Dir_r10_c2: 592080093913716940
+      Swordsman8Dir_r10_c3: 8850658733061000957
+      Swordsman8Dir_r10_c4: 4902625705078334192
+      Swordsman8Dir_r10_c5: -3286712364253949766
+      Swordsman8Dir_r10_c6: 5689417324167943151
+      Swordsman8Dir_r10_c7: 4834721978108352030
+      Swordsman8Dir_r11_c0: 649893779952356002
+      Swordsman8Dir_r11_c1: -4126087464939813227
+      Swordsman8Dir_r11_c2: -441233620532364531
+      Swordsman8Dir_r11_c3: -8531692785043518492
+      Swordsman8Dir_r11_c4: 9183957331247314213
+      Swordsman8Dir_r11_c5: -8528752595468854451
+      Swordsman8Dir_r11_c6: -8318859132849433662
+      Swordsman8Dir_r11_c7: 8958594508687883902
+      Swordsman8Dir_r1_c0: 2503001159150327637
+      Swordsman8Dir_r1_c1: -1547057530421701451
+      Swordsman8Dir_r1_c2: 8663884091026866692
+      Swordsman8Dir_r1_c3: 3656343049678574730
+      Swordsman8Dir_r1_c4: -864927118822967354
+      Swordsman8Dir_r1_c5: -3829848315601423569
+      Swordsman8Dir_r1_c6: -7878460515058442557
+      Swordsman8Dir_r1_c7: -1799564710382692682
+      Swordsman8Dir_r2_c0: -1017715778242053454
+      Swordsman8Dir_r2_c1: -3086514197490701089
+      Swordsman8Dir_r2_c2: -5436178644003746042
+      Swordsman8Dir_r2_c3: 243195332057525205
+      Swordsman8Dir_r2_c4: 5094315824757309086
+      Swordsman8Dir_r2_c5: 9129640482264373762
+      Swordsman8Dir_r2_c6: 5648748371132336814
+      Swordsman8Dir_r2_c7: -7554994620325222798
+      Swordsman8Dir_r3_c0: -5954951281745838449
+      Swordsman8Dir_r3_c1: 204836857321262836
+      Swordsman8Dir_r3_c2: 5462033575451487634
+      Swordsman8Dir_r3_c3: 6311069575541913598
+      Swordsman8Dir_r3_c4: 4496952357125126588
+      Swordsman8Dir_r3_c5: 2273975827844250620
+      Swordsman8Dir_r3_c6: -653378107673734605
+      Swordsman8Dir_r3_c7: 2418962619442049376
+      Swordsman8Dir_r4_c0: -6393061725927836908
+      Swordsman8Dir_r4_c1: 5611608901881765745
+      Swordsman8Dir_r4_c2: 6592595648475557028
+      Swordsman8Dir_r4_c3: 7288122766876565603
+      Swordsman8Dir_r4_c4: -5428786818963623656
+      Swordsman8Dir_r4_c5: 7861713766014892924
+      Swordsman8Dir_r4_c6: 1626606233707427571
+      Swordsman8Dir_r4_c7: -5280504986653529786
+      Swordsman8Dir_r5_c0: 827536129322735892
+      Swordsman8Dir_r5_c1: 3916006414709378135
+      Swordsman8Dir_r5_c2: -6129515769633597065
+      Swordsman8Dir_r5_c3: 6158044971234622480
+      Swordsman8Dir_r5_c4: 562680699067267019
+      Swordsman8Dir_r5_c5: 2190610567953326185
+      Swordsman8Dir_r5_c6: 9170926195107798290
+      Swordsman8Dir_r5_c7: 7496604426042496795
+      Swordsman8Dir_r6_c0: -5018304900864428585
+      Swordsman8Dir_r6_c1: 2239532944902714433
+      Swordsman8Dir_r6_c2: -3090519907363674897
+      Swordsman8Dir_r6_c3: -8835883421930464796
+      Swordsman8Dir_r6_c4: -7667346261983681146
+      Swordsman8Dir_r6_c5: -8110200387761635619
+      Swordsman8Dir_r6_c6: 8096498546132074326
+      Swordsman8Dir_r6_c7: -4767576753671663625
+      Swordsman8Dir_r7_c0: -4063032226214180588
+      Swordsman8Dir_r7_c1: -4458809919111624112
+      Swordsman8Dir_r7_c2: -2777186740021943351
+      Swordsman8Dir_r7_c3: -4960001966008283162
+      Swordsman8Dir_r7_c4: -445717272467083907
+      Swordsman8Dir_r7_c5: -3558647377938537722
+      Swordsman8Dir_r7_c6: -2793336306192728860
+      Swordsman8Dir_r7_c7: -6614989836917028257
+      Swordsman8Dir_r8_c0: -8266160692213599939
+      Swordsman8Dir_r8_c1: 4430144494634975705
+      Swordsman8Dir_r8_c2: -296289842410838345
+      Swordsman8Dir_r8_c3: -958346306833640079
+      Swordsman8Dir_r8_c4: 7063013355313992997
+      Swordsman8Dir_r8_c5: 2496955368359467637
+      Swordsman8Dir_r8_c6: -1515279236299439328
+      Swordsman8Dir_r8_c7: -337980670803516537
+      Swordsman8Dir_r9_c0: 1499102245625630837
+      Swordsman8Dir_r9_c1: 3223701410706170456
+      Swordsman8Dir_r9_c2: 4471381167741600515
+      Swordsman8Dir_r9_c3: 990786413094471302
+      Swordsman8Dir_r9_c4: 633315151975199290
+      Swordsman8Dir_r9_c5: 7403889330977609906
+      Swordsman8Dir_r9_c6: -3770645618490980584
+      Swordsman8Dir_r9_c7: 2881514562181250519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
