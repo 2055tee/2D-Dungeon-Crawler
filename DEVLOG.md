@@ -92,6 +92,70 @@ does — keep doing this for all future code in this project.
 
 ---
 
+## $\textcolor{blue}{\textsf{Day 3: Tile collision, finer grid, Y-sorting (2026-10-28)}}$
+
+### $\textcolor{gray}{\textsf{What got built}}$
+
+**Collision foundation for painted obstacles:**
+- Added `TilemapCollider2D` + `CompositeCollider2D` + a static `Rigidbody2D` to `Obstacle_Layer` —
+  this is the master switch that makes every painted obstacle tile solid. Each `Tile` asset's
+  `Collider Type` field (`None`/`Sprite`/`Grid`) was already being set correctly, but was inert
+  without this component actually generating physics from it.
+- Custom physics shapes ("base-only", same idea as a banner's post) set on the 14 tall props —
+  trees, house, castles, towers, windmill, tent, banners, flag — so only the trunk/wall/base blocks
+  movement, not the canopy/roof. Matches the usual top-down trick of visually walking "behind" a
+  tall object.
+- `Wooden Bridge Horizontal/Vertical` set to fully walkable (`Collider Type = None`) — they're
+  crossings, not obstacles.
+- Squat props (rocks, bushes, stumps, campfire, chest, barrel, cart, well, fences) left on full-
+  silhouette collision, since they have no overhang worth carving out.
+- Prefab-brush workflow (used for the `Decorating.prefab` banner): fixed by adding a
+  `PolygonCollider2D` directly on the prefab, which auto-reads the sprite's custom physics shape.
+  This is a different system from regular painted tiles — no `TilemapCollider2D` involved, the
+  prefab instance carries its own collider.
+- Bug found + fixed: a sprite's custom physics shape coordinates are relative to its **trimmed**
+  rect (Unity auto-crops transparent padding), not the full PNG canvas — the first pass at these
+  shapes used the wrong basis and was misaligned for anything with padding.
+
+**Grid density change (for future decoration detail):**
+- Converted the whole world grid from 1 unit/cell to 0.5 unit/cell (2x finer), so future detail
+  tiles don't require higher-res art, just more of the existing art at finer placement.
+- Re-imported all 89 NormalForest sprites at PPU 512 (previously 256) to match the new cell size —
+  every object's real-world size stayed the same, only the grid resolution got finer.
+- Considered a secondary "detail-only" grid layered on top instead (non-destructive, smaller
+  change) but chose to convert the whole grid now instead, while the project is still small —
+  closer to how shipped games lock in one grid resolution up front.
+
+**Pivot/anchor system (a few false starts, resolved):**
+- Learned: for "Multiple" sprite mode (sliced sheets, which all these props use), pivot is
+  per-sprite-rect data set via `ISpriteEditorDataProvider` — the simpler `TextureImporterSettings`
+  API only works for "Single" mode and silently does nothing here, which caused an early fix to
+  not actually apply despite looking right in the Sprite Editor.
+- Learned: `Tilemap.tileAnchor` controls where *within a cell* a tile's pivot gets placed (default:
+  cell center) — this combines with the sprite's own pivot to determine final placement, and both
+  have to be reasoned about together.
+- Computed and applied precise per-sprite pivot values for the 14 tall props so their trunk/base
+  lands exactly on the bottom edge of whichever cell is painted, instead of floating mid-tile.
+
+**Depth sorting (Y-sort) fix:**
+- `Obstacle_Layer`'s `TilemapRenderer.mode`: `Chunk` → `Individual`, so each tile sorts
+  independently instead of batching as one flat layer with one fixed draw order.
+- Project's URP 2D Renderer asset (`Assets/Settings/Renderer2D.asset`): `Transparency Sort Mode`
+  → `Custom Axis (0, 1, 0)` — every sprite (player, trees, props) now sorts dynamically by world Y
+  position project-wide, so standing in front of/behind overlapping objects reads correctly.
+
+### $\textcolor{gray}{\textsf{Known gaps / not done yet}}$
+
+- Walking animation — didn't get to it this session, top priority for next time.
+- Character still feels a bit large relative to the tile grid; a PPU adjustment (16 → ~24) was
+  discussed but not applied, got sidetracked by the grid-density work — revisit together.
+- Tree/prop placement isn't symmetric across the path yet (a cluster exists on one side only) —
+  this is a painting/placement task, not a bug, just not done yet.
+- `SkyIsland` has no `Obstacle_Layer` yet — collision + props there still need to be set up to
+  match Mainland whenever it gets decorated.
+
+---
+
 ## $\textcolor{orange}{\textsf{To Do}}$
 
 > [!TIP]
@@ -99,6 +163,11 @@ does — keep doing this for all future code in this project.
 > and check items off (or remove them) once done instead of leaving stale "next steps"
 > scattered across old day entries.
 
+- [ ] Build walking animation (direction-based, matching the 8-direction sprite sheet).
+- [ ] Revisit character scale — raise PPU from 16 toward ~24 so it reads less oversized on the
+      now-finer tile grid.
+- [ ] Balance tree/prop placement symmetrically around paths (currently clustered on one side).
+- [ ] Set up `SkyIsland`'s `Obstacle_Layer` (+ collision) to match Mainland once it has props.
 - [ ] Wire an actual resource requirement into `PortalInteractable.Fix()`.
 - [ ] Build the generic floating-text popup utility (see `project_floating_text_todo` memory).
 - [ ] Wire the `SetActive(MainLand/SkyIsland)` toggle into the portal teleport code,

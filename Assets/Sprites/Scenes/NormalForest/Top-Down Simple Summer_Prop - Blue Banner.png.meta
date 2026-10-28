@@ -49,9 +49,9 @@ TextureImporter:
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 256
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 512
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -118,17 +118,25 @@ TextureImporter:
       name: Top-Down Simple Summer_Prop - Blue Banner_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 1
-        width: 136
-        height: 236
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 160
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5333334}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: -8, y: -78}
+        - {x: -22, y: -78}
+        - {x: -22, y: -120}
+        - {x: 22, y: -120}
+        - {x: 22, y: -78}
+        - {x: 8, y: -78}
+        - {x: 8, y: -51}
+        - {x: -8, y: -51}
+      tessellationDetail: 0
       bones: []
       spriteID: 5f2b8b73041148300800000000000000
       internalID: 253346446550020853
@@ -140,7 +148,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 726faea1276cf3642b58e3b20083cfce
     internalID: 0
     vertices: []
     indices: 
