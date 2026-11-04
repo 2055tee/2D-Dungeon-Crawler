@@ -156,6 +156,55 @@ does — keep doing this for all future code in this project.
 
 ---
 
+## $\textcolor{blue}{\textsf{Day 4: Walking animation, animation system teaching (2026-11-04)}}$
+
+### $\textcolor{gray}{\textsf{What got built}}$
+
+**Walking animation, script-driven (not an Animator Controller):**
+- Investigated the character sheet layout empirically (spawned temporary preview GameObjects,
+  screenshotted them, then deleted them): confirmed the sheet is 96 sprites in a 12x8 grid, 3 color
+  variants x 4 rows each (1 arrow-legend row + 3 walk-pose rows), 8 columns ordered clockwise from
+  North: `col0=N, col1=NE, col2=E, col3=SE, col4=S, col5=SW, col6=W, col7=NW`. Confirmed rows 5-7
+  (blue variant) are a 3-frame walk cycle: step-left -> neutral -> step-right.
+- Built `CharacterAnimator` (on Player): reads `Rigidbody2D.linearVelocity` every frame, snaps it to
+  the nearest of the 8 compass directions via `Atan2`, and cycles the matching 3-frame walk loop on a
+  timer while moving; holds the neutral middle frame when idle. No Animator Controller involved -
+  decided against Mecanim here since 8-direction discrete sprite-swapping would mean 8+ states/
+  transitions for something that's really just "pick the right picture," and Animator blending
+  doesn't apply anyway to swapping unrelated raster frames (it would crossfade/ghost, not interpolate
+  motion, the way it does for skeletal rigs or continuous blend trees).
+- Wired the sprite array (24 entries: direction x pose) onto the component via `Unity_RunCommand`,
+  loading sprites from the sheet by name and matching them to `directionFrames[dir*3+pose]`.
+
+**Animation system teaching (Animator Controller, hands-on):**
+- Built a throwaway `FlowerExample` GameObject (reusing character sprite frames as placeholder art,
+  since no real flower asset was found) to teach the *other* half of Unity's animation system - the
+  Animation window + Animator Controller - for the case where it's actually the right tool: a single
+  object, no direction branching, just a looping 2-3 frame cycle.
+- Covered: Animation window vs Animator window, `Create` auto-generating a clip + controller +
+  Animator component, Record mode + keyframing a Sprite property, `Loop Time` (and what it does on/
+  off: hold-last-frame vs loop-forever).
+- Covered Animated Tile vs GameObject/Prefab Brush as the two ways to paint *repeated* animated
+  decoration (e.g. a field of flowers) - Prefab Brush gives a real per-instance Animator (same system
+  used for the `Decorating.prefab` banner back on Day 3) but at a real per-instance performance cost
+  at scale; Animated Tile is the leaner choice for pure background decoration since it's just a `Tile`
+  asset cycling sprites, no per-instance component. Chose not to build either yet - no real flower
+  art, revisit once there's actual art for it.
+- Cleanup: found and removed a stray empty `Animator` component + unused `Player.controller`/
+  `walking.anim` that got created on Player by an accidental `Create` click early in the Animation
+  window walkthrough - would've silently conflicted with `CharacterAnimator` later if left in place.
+  `FlowerExample` itself was kept in the scene as a (placeholder-art) animated decoration.
+
+### $\textcolor{gray}{\textsf{Known gaps / not done yet}}$
+
+- `FlowerExample` uses character-sprite frames as stand-in art, not real flower art - swap once real
+  art exists (hand-drawn in Aseprite or another free asset).
+- Diagonal direction snapping (NE/SE/SW/NW) hasn't been play-tested thoroughly yet - confirm it feels
+  right, not too twitchy, during normal play.
+- Character scale (PPU 16 -> ~24) still not revisited - carried over from Day 3.
+
+---
+
 ## $\textcolor{orange}{\textsf{To Do}}$
 
 > [!TIP]
@@ -163,9 +212,11 @@ does — keep doing this for all future code in this project.
 > and check items off (or remove them) once done instead of leaving stale "next steps"
 > scattered across old day entries.
 
-- [ ] Build walking animation (direction-based, matching the 8-direction sprite sheet).
 - [ ] Revisit character scale — raise PPU from 16 toward ~24 so it reads less oversized on the
       now-finer tile grid.
+- [ ] Find or draw real flower/decoration art, then build it as an Animated Tile (for painted fields
+      of them) and retire the placeholder `FlowerExample`.
+- [ ] Play-test the 8-direction walk animation's diagonal snapping for feel.
 - [ ] Balance tree/prop placement symmetrically around paths (currently clustered on one side).
 - [ ] Set up `SkyIsland`'s `Obstacle_Layer` (+ collision) to match Mainland once it has props.
 - [ ] Wire an actual resource requirement into `PortalInteractable.Fix()`.
